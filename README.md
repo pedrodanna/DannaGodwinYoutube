@@ -1,6 +1,6 @@
-# Project Name
+# Embedding Images and Video
 
-> One paragraph statement about the project.
+> In this project we'll create a single web page application similar to Youtube page to 
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,46 +8,17 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- HTML5 and CSS3.
 
 ## Authors
 
-👤 **Author1**
+👤 Pedro Danna
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: https://github.com/pedrodanna
+- Twitter: https://twitter.com/_pedrodanna
+- Linkedin: https://www.linkedin.com/in/pedro-danna-730690189/
 
-👤 **Author2**
+👤 Godwin Nwachukwu
 
 - Github: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
@@ -62,12 +33,6 @@ Feel free to check the [issues page](issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
