@@ -14,9 +14,9 @@ Additional description about the project and its features.
 
 👤 Pedro Danna
 
-- Github: https://github.com/pedrodanna
-- Twitter: https://twitter.com/_pedrodanna
-- Linkedin: https://www.linkedin.com/in/pedro-danna-730690189/
+- Github: [@pedrodanna](https://github.com/pedrodanna)
+- Twitter: [@_pedrodanna](https://twitter.com/_pedrodanna)
+- Linkedin: [pedrodanna](https://www.linkedin.com/in/pedro-danna-730690189/)
 
 👤 Godwin Nwachukwu
 
@@ -28,7 +28,7 @@ Additional description about the project and its features.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/pedrodanna/DannaGodwinYoutube/issues).
 
 ## Show your support
 
@@ -36,4 +36,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://github.com/pedrodanna/DannaGodwinYoutube/blob/master/LICENSE) licensed.
