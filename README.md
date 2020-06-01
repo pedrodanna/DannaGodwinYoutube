@@ -20,9 +20,9 @@ Additional description about the project and its features.
 
 👤 Godwin Nwachukwu
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@Gnwin](https://github.com/Gnwin)
+- Twitter: [@gmarxr](https://twitter.com/gmarxr)
+- Linkedin: [n-gwin](https://linkedin.com/in/n-gwin)
 
 ## 🤝 Contributing
 
