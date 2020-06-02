@@ -2,3 +2,20 @@
     margin: 0;
     padding: 0;
 }
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    /* justify-content: space-around; */
+    justify-content: center;
+}
+
+.navbar div a img {
+    width: 3.125rem;
+}
+
+.navbar .search input{
+    /* width: 300px; */
+    padding: 0 50px;
+}
